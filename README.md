@@ -1,6 +1,6 @@
 # Diagnostic_sample_size
 
-Stata `.do` files implementing sample-size calculations for diagnostic-accuracy and AUC (C-statistic) study designs. Each file is self-contained: running it with `do` defines a Stata program (command) that can then be called with the options described in that file's own header comments.
+Stata `.do` files implementing sample-size calculations for diagnostic-accuracy and AUC (C-statistic) study designs. Each file is self-contained: running it with `do` defines a Stata program (command) that can then be called with the options described in that file's own header comments. Currently in development - various comments to self in readme.md
 
 Repository: https://github.com/adh30/Diagnostic_sample_size
 
